@@ -403,4 +403,4 @@ M.maxUnique = function(gt)
   return uniqueHeap(gt)
 end
 
-return M
+BinaryHeap = M
